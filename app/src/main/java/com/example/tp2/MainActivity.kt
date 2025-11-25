@@ -17,6 +17,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
+        // Test GitHub Actions
         setContent {
             Tp2Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
