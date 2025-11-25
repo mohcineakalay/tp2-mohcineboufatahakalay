@@ -1,4 +1,4 @@
-# TP2 - {{NomPrénom}}
+# TP2 
 
 ## Description du projet
 Ce projet est une **application Android de démonstration** pour le TP2.  
